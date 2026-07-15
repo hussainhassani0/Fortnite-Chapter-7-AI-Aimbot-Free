@@ -1,0 +1,6 @@
+numpy
+mss
+colorama
+mouse
+beautifulsoup4
+lxml
